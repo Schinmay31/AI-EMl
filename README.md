@@ -24,6 +24,6 @@ Best regards,
 [Your Name]"
 
 ## Contributions
-Feel free to open issues, submit PRs, or suggest new features.
+Feel free to open issues, submit PRs, or suggest new features
 
 
